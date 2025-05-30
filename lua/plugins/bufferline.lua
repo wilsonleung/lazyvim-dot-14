@@ -5,7 +5,7 @@ return {
       options = {
         indicator = {
           style = "icon",
-          icon = " ",
+          icon = "󰁔 ",
         },
       },
     },
